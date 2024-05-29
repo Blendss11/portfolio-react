@@ -6,6 +6,8 @@ import Skills from "./component/skills/Skills";
 import WorkExperience from "./workexperience/WorkExperience";
 import ContactMe from "./contactMe/ContactMe";
 import Footer from "./footer/Footer";
+import 'react-toastify/dist/ReactToastify.css';
+
 
 
 const App = () => {

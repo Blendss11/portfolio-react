@@ -3,8 +3,8 @@ import "./hero.css";
 
 const Hero = () => {
   return (
-    <section className="hero-container">
-      <div className="hero-content">
+    <section className="hero-container"id="Hero" >
+      <div className="hero-content" >
         <h2>Building Digital experiences that Inspire</h2>
         <p>Front-end Developer | Mobile Flutter Developer</p>
       </div>

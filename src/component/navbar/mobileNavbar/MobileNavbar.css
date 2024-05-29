@@ -16,8 +16,11 @@
 .mobile-menu-container{
     width: 60vw;
     height: 100vh;
-    background-color: rgb(49, 22, 255);
+    background-color: #131d2e;
     padding: 2rem;
+    border-top-right-radius: 1.3rem;
+    border-bottom-right-radius: 1.3rem;
+    border: 1.5px solid #3e6bff;
 }
 
 .mobile-menu.active{
@@ -43,4 +46,11 @@
         display: block;
     }
     
+}
+
+@media (max-width: 450px) {
+    .mobile-menu-container div{
+       display: flex;
+      margin-left: 1rem;
+    }
 }
