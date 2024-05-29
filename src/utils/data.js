@@ -71,3 +71,46 @@ export const PROJECT = [
         ],
       },
 ];
+
+export const SERTIFIKAT = [
+  {
+    title: "Frontend pemula dicoding",
+    date:"Desember 2023",
+    image: "./assets/sertifikat/Frondendpemula.png",
+    description: [
+      "saya telah menyelesaikan curses Dicoding tantang Front-end developer"
+    ],
+  },
+  {
+    title: "Membuat Website Dicoding",
+    date:"November 2023",
+    image: "./assets/sertifikat/buatweb.png",
+    description: [
+      "saya telah menyelesaikan curses Dicoding tantang membuat website native"
+    ],
+  },
+  {
+    title: "Android Pemula Kotlin Dicoding",
+    date:"February 2024",
+    image: "./assets/sertifikat/androidpemula-1.png",
+    description: [
+      "saya telah menyelesaikan curses Dicoding tantang membuat Android kotlin "
+    ],
+  },
+  {
+    title: "Flutter Pemula Dicoding",
+    date:"April 2024",
+    image: "./assets/sertifikat/flutter-1.png",
+    description: [
+      "saya telah menyelesaikan curses Dicoding tantang membuat App Flutter native"
+    ],
+  },
+  {
+    title: "SOLID Dicoding",
+    date:"Agustus 2023",
+    image: "./assets/sertifikat/solid-1.png",
+    description: [
+      "saya telah menyelesaikan curses Dicoding tantang OOP SOLID"
+    ],
+  },
+]

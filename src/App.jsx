@@ -7,6 +7,7 @@ import WorkExperience from "./workexperience/WorkExperience";
 import ContactMe from "./contactMe/ContactMe";
 import Footer from "./footer/Footer";
 import 'react-toastify/dist/ReactToastify.css';
+import Sertifikat from "./sertikat/Sertifikat";
 
 
 
@@ -18,6 +19,7 @@ const App = () => {
         <Hero />
         <Skills />
         <WorkExperience />
+        <Sertifikat/>
         <ContactMe/>
       </div>
       <Footer/>
